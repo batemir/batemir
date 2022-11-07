@@ -1,4 +1,3 @@
-### ![2HTa_2LAqAs](https://user-images.githubusercontent.com/31863592/133092195-c4eaf771-a57d-447c-9c0d-422a5492099a.jpg)
 ![codewarsd badge](https://www.codewars.com/users/batemir/badges/large)
 <!--
 **batemir/batemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
